@@ -70,7 +70,7 @@ class _ChangePasswordState extends State<ChangePassword> {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     const Text(
-                      "Change Password",
+                      "change password",
                       style: TextStyle(
                           color: Colors.black,
                           fontSize: 20,
